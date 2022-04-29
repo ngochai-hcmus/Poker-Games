@@ -63,7 +63,6 @@ void CheckWin(int*** hands, int* res, int n);
 
 void gameLevels(int deck[SUITS][FACES], const char* suits[], const char* faces[]);
 
-
 void EasyGame(int deck[SUITS][FACES], const char* suits[], const char* faces[], int n);
 void MediumGame(int deck[SUITS][FACES], const char* suits[], const char* faces[], int n);
 void HardGame(int deck[SUITS][FACES], const char* suits[], const char* faces[], int n);
